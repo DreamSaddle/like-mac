@@ -8,8 +8,10 @@
 
 ```
 前往 release 中下载, 解压之后会得到 like-mac 目录和 like-mac.css 文件
-将这两样移动到typora的主题目录即可
-重启typora, 就可以在主题选项中选择
+将 like-mac.css 移动到typora的主题目录即可
+重启typora, 就可以在主题选项中选择 Like Mac
+
+注意: like-mac.css 中会使用到几个字体, 字体文件在typora默认的github主题目录中
 ```
 
 
